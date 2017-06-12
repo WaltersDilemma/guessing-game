@@ -1,0 +1,7 @@
+[package]
+
+name = "guess"
+version = "0.0.1"
+authors = [ "Dein Name <du@example.com>" ]
+[dependencies]
+rand="0.3.15"
